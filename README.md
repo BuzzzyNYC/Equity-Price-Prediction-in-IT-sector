@@ -34,13 +34,9 @@ d.	Table 1 is descriptive statistics table.
 
 Table 1 Descriptive Statistics
 
-|Name  | obs | max  | min | mean  | median | mode  | var | std | skew  | kurt |
-| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
-| Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
-
-name	obs	max	min	mean	median	mode	var	std	skew	kurt
-price	10	560.897	153.974	331.456	316.776	207.631	16862.758	129.857	0.522	2.466
-eps	10	19.167	2.512	11.238	11.691	2.512	34.218	5.85	-0.062	1.582
-bvps	10	153.638	16.087	73.566	64.367	16.087	2113.571	45.974	0.386	1.962
-cfps	10	27.563	1.792	13.922	13.492	1.792	82.13	9.063	0.123	1.719
+|  Name | obs | max      | min      | mean    | median  | mode    | var       | std     | skew   | kurt  |
+| ----- | --- | -------- | -------- | ------- | ------- | ------- | --------- | ------- | ------ | ----- |
+| price | 10  | 560.897  | 153.974  | 331.456 | 316.776 | 207.631 | 16862.758 | 129.857 | 0.522  | 2.466 |
+| eps   | 10  | 19.167   | 2.512    | 11.238  | 11.691  | 2.512   | 34.218    | 5.85    | -0.062 | 1.582 |
+| bvps  | 10  | 153.638  | 16.087   | 73.566  | 64.367  | 16.087  | 2113.571  | 45.974  | 0.386  | 1.962 |
+| cfps  | 10  | 27.563   | 1.792    | 13.922  | 13.492  | 1.792   | 82.13     | 9.063   | 0.123  | 1.719 |
