@@ -30,9 +30,9 @@ These plots show a strong, positive, nonlinear association between the dependent
 ![image](https://user-images.githubusercontent.com/87792252/147893862-37046a53-df89-4188-8c06-6a3dd663fcd4.png)
 ![image](https://user-images.githubusercontent.com/87792252/147893864-da752173-ba0a-4036-909b-b5b69c395bb4.png)
 
-d.	Table 1 is descriptive statistics table.
+d. Table 1 is descriptive statistics table.
 
-Table 1 Descriptive Statistics
+Table 1: Descriptive Statistics
 
 |  Name | obs | max      | min      | mean    | median  | mode    | var       | std     | skew   | kurt  |
 | ----- | --- | -------- | -------- | ------- | ------- | ------- | --------- | ------- | ------ | ----- |
@@ -40,3 +40,20 @@ Table 1 Descriptive Statistics
 | eps   | 10  | 19.167   | 2.512    | 11.238  | 11.691  | 2.512   | 34.218    | 5.85    | -0.062 | 1.582 |
 | bvps  | 10  | 153.638  | 16.087   | 73.566  | 64.367  | 16.087  | 2113.571  | 45.974  | 0.386  | 1.962 |
 | cfps  | 10  | 27.563   | 1.792    | 13.922  | 13.492  | 1.792   | 82.13     | 9.063   | 0.123  | 1.719 |
+
+e. Table 2 displays correlation matrix for price, eps, bvps, and cfps.
+
+Table 2: Correlation Matrix
+
+|       | price  | eps    | cfps   | bvps  |
+| ----- | ---    | ------ | ------ | ----- | 
+| price | 1      | 0.822  | 0.825  | 0.862 |
+| eps   | 0.822  | 1      | 0.984  | 0.972 | 
+| bvps  | 0.825  | 0.984  | 1.     | 0.99  | 
+| cfps  | 0.862  | 0.972  | 0.99   | 1.    | 
+
+
+
+
+
+
