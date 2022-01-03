@@ -34,7 +34,7 @@ d.	Table 1 is descriptive statistics table.
 
 Table 1 Descriptive Statistics
 
-| First Header  | Second Header | First Header  | Second Header | First Header  | Second Header | First Header  | Second Header |
+|Name  | obs | max  | min | mean  | median | mode  | var | std | skew  | kurt |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
