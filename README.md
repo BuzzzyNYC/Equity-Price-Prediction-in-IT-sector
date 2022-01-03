@@ -64,8 +64,19 @@ Table 3 Regression Results
 	r (corr)             (0.822)      (0.862)      (0.825)
 >
 
->>>
-         n = 10    r-sq. = 0.788    F = 7.425       DW = 3.020
->>>
+>
+       n = 10    r-sq. = 0.788    F = 7.425       DW = 3.020
+>
+F-statistics is 7.425> 4.99, therefore the equation is significant.
+R-squared, the coefficient of determination, indicates that 79% of the variance in price can be explained or attributed to variance in book value per share. 
+t-statistics: the t-stat of book value per share is greater than 1.65, therefore book value per share is the correct variable. 
+
+### Conclusion
+
+The research was successful. The explanatory power was strong (79%). Nonetheless, the research could be improved by investigating additional variables and more observations.
+
+### Bibliography:  Financial data and analytics provider FactSet
+
+
 
 
