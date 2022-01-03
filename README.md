@@ -47,13 +47,25 @@ Table 2: Correlation Matrix
 
 |       | price  | eps    | cfps   | bvps  |
 | ----- | ---    | ------ | ------ | ----- | 
-| price | 1      | 0.822  | 0.825  | 0.862 |
-| eps   | 0.822  | 1      | 0.984  | 0.972 | 
+| price | 1.     | 0.822  | 0.825  | 0.862 |
+| eps   | 0.822  | 1.     | 0.984  | 0.972 | 
 | bvps  | 0.825  | 0.984  | 1.     | 0.99  | 
 | cfps  | 0.862  | 0.972  | 0.99   | 1.    | 
 
+All three independent variables have a strong correlation with the dependent variable, price. These observations agree with my hypothesis. 
 
+f. Table 3 is Regression Table. 
 
+Table 3 Regression Results
+>
+	Eqn. 4 P = 119.971 + 9.824*eps + 6.386*bvps - 26.484*cfps 
+	t-stat.    (1.626)   (0.415)      (1.717)      (-1.064)
+	p-value.   (0.155)   (0.693)      (0.137)      (0.328)
+	r (corr)             (0.822)      (0.862)      (0.825)
+>
 
+>>>
+         n = 10    r-sq. = 0.788    F = 7.425       DW = 3.020
+>>>
 
 
