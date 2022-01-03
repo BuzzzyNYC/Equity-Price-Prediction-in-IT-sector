@@ -1,3 +1,4 @@
+
 # A Statistical Model to Predict the Equity Price of Google Inc.
 
 ## Introduction
@@ -11,3 +12,9 @@ The dataset used for this research is time series and contains 10 observations. 
 	Eqn. 2 Price = α + βeps*EPS + βbvps*BVPS+ βcfps*CFPS 
 	Eqn. 3 Price = a + beps*EPS + bbvps*BVPS+ bcfps*CFPS
 >
+
+### Results
+
+a. Fig. 1, Fig. 2, Fig. 3, and Fig. 4 display histograms for both the dependent and independent variables. Fig. 1 and Fig.4 are skewed to the right. Fig. 3 is symmetrical, and Fig. 2 is skewed to the left.
+
+![image](https://user-images.githubusercontent.com/87792252/147893837-949c8793-675d-4a5c-a1ef-e6f53580a1ef.png)
