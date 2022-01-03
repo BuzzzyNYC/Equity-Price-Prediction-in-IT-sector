@@ -75,7 +75,7 @@ t-statistics: the t-stat of book value per share is greater than 1.65, therefore
 
 The research was successful. The explanatory power was strong (79%). Nonetheless, the research could be improved by investigating additional variables and more observations.
 
-### Bibliography:  Financial data and analytics provider FactSet
+##### Bibliography:  Financial data and analytics provider FactSet
 
 
 
